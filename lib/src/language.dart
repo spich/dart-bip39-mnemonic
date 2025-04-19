@@ -1,6 +1,7 @@
 import 'package:bip39_mnemonic/src/wordlists/french.dart';
 import 'package:bip39_mnemonic/src/wordlists/english.dart';
 import 'package:bip39_mnemonic/src/wordlists/spanish.dart';
+import 'package:bip39_mnemonic/src/wordlists/croatian.dart';
 import 'package:bip39_mnemonic/src/wordlists/italian.dart';
 import 'package:bip39_mnemonic/src/wordlists/czech.dart';
 import 'package:bip39_mnemonic/src/wordlists/portuguese.dart';
@@ -17,6 +18,7 @@ enum Language {
   french('french', frenchList),
   spanish('spanish', spanishList),
   italian('italian', italianList),
+  croatian('hrvatski' croatianList),
   portuguese('portuguese', portugueseList),
   czech('czech', czechList),
   korean('korean', koreanList),
