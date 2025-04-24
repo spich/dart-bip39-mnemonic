@@ -18,7 +18,7 @@ enum Language {
   french('french', frenchList),
   spanish('spanish', spanishList),
   italian('italian', italianList),
-  croatian('hrvatski' croatianList),
+  croatian('hrvatski', croatianList),
   portuguese('portuguese', portugueseList),
   czech('czech', czechList),
   korean('korean', koreanList),
